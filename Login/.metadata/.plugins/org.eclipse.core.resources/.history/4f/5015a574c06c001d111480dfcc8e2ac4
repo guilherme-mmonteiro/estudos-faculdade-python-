@@ -1,0 +1,23 @@
+package br.com.login.view;
+
+import java.awt.color;
+
+import javax.swing.JFrame;
+
+public class view {
+	
+	public class JanelaJava {
+		public static void main(String[] args) {
+			
+			JFrame janela = new JFrame();
+			janela.setSize(700, 700);
+			janela.getContentPane().setBackground(new color(200, 30, 50));
+			janela.setVisible(true);
+			
+			
+			
+			
+		}
+	}
+
+}

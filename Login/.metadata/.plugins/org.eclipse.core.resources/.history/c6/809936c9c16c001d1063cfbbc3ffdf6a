@@ -1,0 +1,16 @@
+package br.com.login.view;
+
+import javax.swing.JFrame;
+
+public class view {
+	
+	public class JanelaJava {
+		public static void main(String[] args) {
+			
+			JFrame janela = new JFrame();
+			janela.setVisible(true);
+			
+		}
+	}
+
+}
